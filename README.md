@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer.Adventurer.
 -----------------------------
 
-* 🌍  I'm based in Ankara / Türkiye
-* ✉️  You can contact me at [qutaibaashqar@gmail.com](mailto:qutaibaashqar@gmail.com)
-* 🧠  I'm learning A lot!!!
+* 🌍  Based in Ankara / Türkiye
+* ✉️  Contact me at [qutaibaashqar@gmail.com](mailto:qutaibaashqar@gmail.com)
+* 🧠  Learning A lot!...
 
 ### Skills
 
